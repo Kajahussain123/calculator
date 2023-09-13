@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+div{
+    height: 250px;
+    width: 220px;
+    margin-left: 500px;
+    margin-top: 10px;
+    background-color: yellow;
+    border: 20px;
+    padding: 10px;
+}
+h1{
+    color: burlywood;
+    margin-left: 540px;
+    margin-top: 50px;
+}
+tr{
+    height: 40px;
+    width: 400px;
+    padding: 10px;
+}
